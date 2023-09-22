@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaPolonez)](https://github.com/anuraghazra/github-readme-stats)
+[![codewars](https://www.codewars.com/users/dimaPolonez/badges/large)](https://www.codewars.com/users/dimaPolonez)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimaPolonez&theme=solarized_dark)
