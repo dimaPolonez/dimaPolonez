@@ -23,12 +23,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Проекты
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=nest_blogs_platform_API_SQL)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=nest_blogs_platform_API)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=blogs_platform_API)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=helperEldritchHorror_project)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=momentum_project)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=travel_project)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=nest_blogs_platform_API_SQL)](https://github.com/dimaPolonez/nest_blogs_platform_API_SQL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=nest_blogs_platform_API)](https://github.com/dimaPolonez/nest_blogs_platform_API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=blogs_platform_API)](https://github.com/dimaPolonez/blogs_platform_API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=helperEldritchHorror_project)](https://github.com/dimaPolonez/helperEldritchHorror_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=momentum_project)](https://github.com/dimaPolonez/momentum_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimaPolonez&repo=travel_project)](https://github.com/dimaPolonez/travel_project)
 
 ## Статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaPolonez&show_icons=true&theme=transparent&count_private=true&hide=issues,contrib)
