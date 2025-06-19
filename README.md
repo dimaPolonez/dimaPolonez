@@ -4,7 +4,7 @@
   <a href="http://www.linkedin.com/in/dimapolonez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://disk.yandex.com/iWoFbm85CCPaJSA">
+  <a href="https://disk.yandex.com/i/WoFbm85CCPaJSA">
     <img src="https://img.shields.io/badge/CV-yellow?style=for-the-badge&logo=CV&logoColor=red" alt="CV Badge"/>
   </a>
   <a href="https://t.me/dimaPolonez">
