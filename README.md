@@ -8,7 +8,7 @@
   <a href="https://disk.yandex.by/i/mH7hgAADtObyIQ">
     <img src="https://img.shields.io/badge/CV-yellow?style=for-the-badge&logo=CV&logoColor=red" alt="CV Badge"/>
   </a>
-  <a href="https://t.me/dimaCaptain">
+  <a href="https://t.me/captainDima">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
