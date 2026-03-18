@@ -1,14 +1,14 @@
 👋 Привет, я Дмитрий — Backend Engineer & AI Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Engineer+and+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=dimaCaptain)](https://git.io/typing-svg)
 <div id="badges" align="center">
-  <a href="http://www.linkedin.com/in/dimapolonez">
+  <a href="http://www.linkedin.com/in/dimaCaptain">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://disk.yandex.by/i/mH7hgAADtObyIQ">
     <img src="https://img.shields.io/badge/CV-yellow?style=for-the-badge&logo=CV&logoColor=red" alt="CV Badge"/>
   </a>
-  <a href="https://t.me/dimaPolonez">
+  <a href="https://t.me/dimaCaptain">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
